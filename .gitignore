@@ -3,6 +3,14 @@ target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+bin/
+db/
+*.log
+*.log.*.gz
+hs_err_pid*
+replay_pid*
+src/main/resources/static/uploads/
+src/main/resources/certs/*.pem
 
 ### STS ###
 .apt_generated
