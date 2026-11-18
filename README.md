@@ -183,6 +183,7 @@ Planned improvements, tracked honestly:
 - [ ] Optional: OAuth2 login with Google/GitHub, or Spring Authorization Server
 
 ---
+<img width="7899" height="8400" alt="diagram" src="https://github.com/user-attachments/assets/08f42ca0-29c1-49ac-ad5c-d61b488b2239" />
 
 ## 📄 License
 
